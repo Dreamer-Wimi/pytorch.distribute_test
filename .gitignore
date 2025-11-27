@@ -1,3 +1,6 @@
 qwen2.5_mlponly_test/qwen2.5-0.5b/pytorch_model.bin
 *.bin
 *.pth
+qwen2.5_mlponly_test/qwen2.5-0.5b/pytorch_model.bin
+qwen2.5_test/qwen2.5-0.5b/pytorch_model.bin
+*.bin
